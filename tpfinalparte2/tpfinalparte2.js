@@ -1,7 +1,7 @@
 /* TP recuperatorio - Comisión 3, David Bedoian
  Luna Carabatti
  Película elegida: Ratatouille
- Video explicativo: https://youtu.be/0EcsrCdOJwU
+ Video explicativo: https://youtu.be/2eFHwmXVODE
 
  */
 
