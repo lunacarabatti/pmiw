@@ -1,3 +1,10 @@
+/* TP recuperatorio - Comisión 3, David Bedoian
+ Luna Carabatti
+ Película elegida: Ratatouille
+ Video explicativo: https://youtu.be/0EcsrCdOJwU
+
+ */
+
 let tiempoRestante = 45; // Tiempo inicial en segundos
 let tiempoInicio; // Almacena el tiempo cuando se inicia el juego
 let juegoTerminado = false;
